@@ -18,6 +18,8 @@ Screenshot of the completed output:
 
 ![DPK Burger Screenshot](./src/burger.png)
 
+My portfolio has been updated to include this project, and can be viewed at https://kvadou.github.io/Portfolio/portfolio.html
+
 ## Installation
 
 `npm init`
